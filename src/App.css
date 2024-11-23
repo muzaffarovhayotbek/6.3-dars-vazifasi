@@ -1,0 +1,134 @@
+.header {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav-list a {
+  color: black;
+}
+
+.nav-list a:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.header-end {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.card{
+  padding: 40px;
+  box-shadow: 1px 3px 4px red;
+}
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.card-img  img{
+  width: 500px;
+  height: 400px;
+}
+.card-tilte {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card-desc {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card__container {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.card-first {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card-year {
+  padding-top: 20px;
+  padding-bottom: 6px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.release-date {
+  padding-top: 20px;
+  padding-bottom: 6px;
+}
+
+.genre {
+  padding-top: 20px;
+  padding-bottom: 8px;
+}
+
+.the-writer {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.language {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.awards {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.card-two {
+  margin-top: 20px;
+}
+
+.rating {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.duration {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.rej {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.actors {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.countries {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+.IMDb-rating {
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
